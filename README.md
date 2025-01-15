@@ -24,7 +24,7 @@ Sou estudante de graduação de Ciência da Computação pela Universidade de Br
     <img
       align="center"
       height="200"
-      src="https://github-readme-stats.vercel.app/api?username=arthmp&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=arthmp&theme=dark&hide_border=false"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
